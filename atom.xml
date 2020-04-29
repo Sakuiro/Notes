@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Notes - Sakuiro&#39;s 小站</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://notes.sakuiro.cc/"/>
+  <updated>2020-04-29T08:45:11.461Z</updated>
+  <id>http://notes.sakuiro.cc/</id>
+  
+  <author>
+    <name>Sakuiro</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>first-notes</title>
+    <link href="http://notes.sakuiro.cc/ck9l403dp00016or0d874habw/"/>
+    <id>http://notes.sakuiro.cc/ck9l403dp00016or0d874habw/</id>
+    <published>2018-12-30T16:00:00.000Z</published>
+    <updated>2020-04-29T08:45:11.461Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>这个是这个博客的第一条博文，但是已经过去两年了。。。</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;这个是这个博客的第一条博文，但是已经过去两年了。。。&lt;/li&gt;
+&lt;/ul&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="notes" scheme="http://notes.sakuiro.cc/categories/notes/"/>
+    
+    
+      <category term="Write" scheme="http://notes.sakuiro.cc/tags/Write/"/>
+    
+      <category term="Hexo" scheme="http://notes.sakuiro.cc/tags/Hexo/"/>
+    
+  </entry>
+  
+</feed>
