@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://notes.sakuiro.cc/"/>
-  <updated>2020-04-29T08:45:11.461Z</updated>
+  <updated>2020-04-30T05:24:08.661Z</updated>
   <id>http://notes.sakuiro.cc/</id>
   
   <author>
@@ -18,19 +18,19 @@
   
   <entry>
     <title>first-notes</title>
-    <link href="http://notes.sakuiro.cc/ck9l4fn0s0000lor02kbd8yqi/"/>
-    <id>http://notes.sakuiro.cc/ck9l4fn0s0000lor02kbd8yqi/</id>
+    <link href="http://notes.sakuiro.cc/ck9mhfsou0000xcr06d632sdc/"/>
+    <id>http://notes.sakuiro.cc/ck9mhfsou0000xcr06d632sdc/</id>
     <published>2018-12-30T16:00:00.000Z</published>
-    <updated>2020-04-29T08:45:11.461Z</updated>
+    <updated>2020-04-30T05:24:08.661Z</updated>
     
-    <content type="html"><![CDATA[<ul><li>这个是这个博客的第一条博文，但是已经过去两年了。。。</li></ul>]]></content>
+    <content type="html"><![CDATA[<h3 id="第一个记录"><a href="#第一个记录" class="headerlink" title="第一个记录"></a>第一个记录</h3><ul><li>这个是这个博客的第一条博文，但是已经过去两年了.</li></ul>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;ul&gt;
-&lt;li&gt;这个是这个博客的第一条博文，但是已经过去两年了。。。&lt;/li&gt;
+        &lt;h3 id=&quot;第一个记录&quot;&gt;&lt;a href=&quot;#第一个记录&quot; class=&quot;headerlink&quot; title=&quot;第一个记录&quot;&gt;&lt;/a&gt;第一个记录&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;这个是这个博客的第一条博文，但是已经过去两年了.&lt;/li&gt;
 &lt;/ul&gt;
 
       
@@ -38,7 +38,7 @@
     </summary>
     
     
-      <category term="notes" scheme="http://notes.sakuiro.cc/categories/notes/"/>
+      <category term="Notes" scheme="http://notes.sakuiro.cc/categories/Notes/"/>
     
     
       <category term="Write" scheme="http://notes.sakuiro.cc/tags/Write/"/>
